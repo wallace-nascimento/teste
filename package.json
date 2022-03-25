@@ -1,7 +1,7 @@
 {
   "name": "global-marketplace",
-  "homepage": "https://github.com/wallace-nascimento/blockchain",
   "version": "0.1.0",
+  "homepage": "https://wallace-nascimento.github.io/teste/",
   "description": "An Ethereum Marketplace",
   "author": "Anonymous",
   "dependencies": {
